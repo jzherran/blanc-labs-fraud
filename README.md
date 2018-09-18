@@ -6,11 +6,11 @@ This is a project developed like a PoC, not is a project related with no one com
 
 If you are using Gradle, execute:
 
-`./gradlew build && java -jar build/libs/gs-spring-boot-docker-0.1.0.jar`
+`./gradlew build && java -jar build/libs/fraud-0.1.0.jar`
 
 If you are using Maven, execute:
 
-`./mvnw package && java -jar target/gs-spring-boot-docker-0.1.0.jar`
+`./mvnw package && java -jar target/fraud-0.1.0.jar`
 
 ## If you use containers
 
